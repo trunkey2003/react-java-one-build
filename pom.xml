@@ -126,7 +126,7 @@
 							<outputDirectory>src/main/webapp</outputDirectory>
 							<resources>
 								<resource>
-									<directory>src/main/frontend/build</directory>
+									<directory>src/main/frontend/dist</directory>
 								</resource>
 							</resources>
 						</configuration>
